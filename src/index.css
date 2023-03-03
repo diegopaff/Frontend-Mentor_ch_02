@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-gradient{
+    background: linear-gradient(hsl(252, 100%, 67%),hsl(241, 81%, 54%))
+}
+
+.circle-gradient{
+    background: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0))
+}
+
+.color-lavander{
+    color: hsl(241, 100%, 89%);
+}
+
+.color-light-red{
+    background: hsla(0, 100%, 67%, 0.100);
+    
+}
+.text-light-red{
+    color: hsl(0, 100%, 67%);
+}
+
+.color-yellow{
+    background: hsl(39, 100%, 56%, 0.100);
+    
+}
+.text-yellow{
+    color: hsl(39, 100%, 56%);
+}
+
+.color-green{
+    background: hsl(166, 100%, 37%, 0.100);
+    
+}
+.text-green{
+    color: hsl(166, 100%, 37%);
+}
+
+.color-purple{
+    background-color: hsl(224, 30%, 27%, 0.100);
+}
+
+.text-purple{
+    color:hsl(224, 30%, 27%);
+}
+
+.hover-btn:hover{
+    background: linear-gradient(hsla(256, 72%, 46%, 1), rgb(36, 33, 202));
+
+}
+
