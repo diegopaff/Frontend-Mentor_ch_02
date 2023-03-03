@@ -2,21 +2,23 @@
   {
     "category": "Reaction",
     "score": 80,
-    "icon": "https://drive.google.com/file/d/1qMWQnTDadYI5yog4nPAoZiGgaMkf6vmG"
+    "icon": "https://i.ibb.co/s97jNMj/icon-reaction.png"
   },
   {
     "category": "Memory",
     "score": 92,
-    "icon": "../../public/icon-memory.svg"
+    "icon": "https://i.ibb.co/QmssZgV/icon-memory.png"
   },
   {
     "category": "Verbal",
     "score": 61,
-    "icon": "../../public/icon-verbal.svg"
+    "icon": "https://i.ibb.co/swfzzzB/icon-verbal.png"
   },
   {
     "category": "Visual",
     "score": 72,
-    "icon": "../../public/icon-visual.svg"
+    "icon": "https://i.ibb.co/M2SHwmr/icon-visual.png"
   }
 ]
+
+
