@@ -18,7 +18,7 @@
 }
 
 .color-light-red{
-    background: hsla(0, 100%, 67%, 0.100);
+    background: hsla(0, 100%, 67%, 0.07);
     
 }
 .text-light-red{
@@ -26,7 +26,7 @@
 }
 
 .color-yellow{
-    background: hsl(39, 100%, 56%, 0.100);
+    background: hsl(39, 100%, 56%, 0.07);
     
 }
 .text-yellow{
@@ -34,7 +34,7 @@
 }
 
 .color-green{
-    background: hsl(166, 100%, 37%, 0.100);
+    background: hsl(166, 100%, 37%, 0.07);
     
 }
 .text-green{
@@ -42,7 +42,7 @@
 }
 
 .color-purple{
-    background-color: hsl(224, 30%, 27%, 0.100);
+    background-color: hsl(224, 30%, 27%, 0.07);
 }
 
 .text-purple{

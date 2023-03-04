@@ -6,7 +6,7 @@ function App() {
 
 
   return (
-    <div className='grid place-items-center h-screen bg-gray-200
+    <div className='grid place-items-center h-screen bg-gray-100
     '>
       <Sumary/> 
     </div>

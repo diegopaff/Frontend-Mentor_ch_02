@@ -13,17 +13,19 @@ const Sumary = () => {
                     sm:flex-row sm:w-[735px]
                     '>
         
-        <div className='flex flex-col gap-3  py-9 items-center justify-center bg-gradient w-screen h-[55lvh] rounded-b-3xl  text-white
-        sm:h-[510px] sm:w-[370px] sm:rounded-t-3xl'>
+        <div className='flex flex-col gap-3  py-9 items-center justify-center bg-gradient w-screen h-[45lvh] rounded-b-3xl  text-white
+        sm:h-[510px] sm:w-[370px] sm:rounded-t-3xl sm:gap-5'>
 
           <h3 className='text-xl color-lavander font-base'>Your Result</h3>
           <div className='flex flex-col justify-center gap-1 items-center w-[150px] h-[150px] circle-gradient rounded-full
-            '>
-              <p className=' text-6xl font-bold '> 76 </p>
-              <p className='text-sm text-gray-300'> of 100 </p>
+                          sm:w-[200px] sm:h-[200px]'>
+              <p className=' text-6xl font-bold
+                            sm:text-7xl'> 76 </p>
+              <p className='text-sm text-gray-300
+                            sm:text-base'> of 100 </p>
           </div>
           <h2 className='font-bold text-2xl'> Great </h2>
-          <p className='color-lavander px-14 text-center'> You scored higher than 65% of the people who have taken this tests.</p>
+          <p className='color-lavander px-14 text-center text-lg'> You scored higher than 65% of the people who have taken this tests.</p>
 
 
         </div>
